@@ -1,0 +1,15 @@
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.csproj.AssemblyReference.cache
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.AssemblyInfoInputs.cache
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.AssemblyInfo.cs
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.csproj.CoreCompileInputs.cache
+C:\Users\lorenzoL\source\repos\TCPCobotListener\bin\Debug\net6.0\TCPCobotListener.exe
+C:\Users\lorenzoL\source\repos\TCPCobotListener\bin\Debug\net6.0\TCPCobotListener.deps.json
+C:\Users\lorenzoL\source\repos\TCPCobotListener\bin\Debug\net6.0\TCPCobotListener.runtimeconfig.json
+C:\Users\lorenzoL\source\repos\TCPCobotListener\bin\Debug\net6.0\TCPCobotListener.dll
+C:\Users\lorenzoL\source\repos\TCPCobotListener\bin\Debug\net6.0\TCPCobotListener.pdb
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.dll
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\refint\TCPCobotListener.dll
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.pdb
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\TCPCobotListener.genruntimeconfig.cache
+C:\Users\lorenzoL\source\repos\TCPCobotListener\obj\Debug\net6.0\ref\TCPCobotListener.dll
